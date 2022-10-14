@@ -1,0 +1,11 @@
+{
+  "name": "orms",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "dependencies": {
+    "sequelize": "^6.25.1",
+    "sqlite3": "^5.1.2"
+  }
+}
